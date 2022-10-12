@@ -1,0 +1,50 @@
+nav{
+    size: fixed;
+    
+
+}
+
+
+#navbarSupportedContent{
+    margin-left: 20rem;
+}
+.free-line-wrapper {
+    background: #E9E9E9;
+    padding: 10px 0;
+    font-size: 14px;
+    line-height: 20px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+}
+.row {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+.tools_box{
+    border-color: black;
+    background-color: white;
+}
+
+
+.small_gutter {
+    margin-left: -10px;
+    margin-right: -10px;
+
+}
+.row {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+
+}
+ul{
+    list-style-type: none;
+}
